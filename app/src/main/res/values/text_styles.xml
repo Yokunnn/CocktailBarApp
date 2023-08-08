@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Text" parent="TextAppearance.AppCompat"/>
+
+    <style name="Text.DidactGothic">
+        <item name="fontFamily">@font/didact_gothic</item>
+    </style>
+
+    <style name="Text.DidactGothic.Title">
+        <item name="android:textSize">36sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="Text.DidactGothic.Hint">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/grey</item>
+    </style>
+
+    <style name="Text.DidactGothic.HelperText">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/grey</item>
+    </style>
+
+    <style name="Text.DidactGothic.BlueBtnText">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="Text.DidactGothic.WhiteBtnText">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/blue</item>
+    </style>
+
+    <style name="Text.DidactGothic.Description">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+</resources>
